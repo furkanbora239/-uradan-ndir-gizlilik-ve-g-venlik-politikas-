@@ -31,6 +31,26 @@ Herhangi bir soru, endişe veya geri bildirim için frknbora@gmail.com adresinde
  9. Uyumluluk:
 
 "Şuradan İndir" uygulaması geçerli gizlilik yasalarına ve düzenlemelere tam olarak uyar.
+
+Reklam Hizmeti Kullanımı:
+
+"Şuradan İndir" uygulaması, reklam gösterimi için Google AdMob reklam hizmetini kullanmaktadır. Bu hizmet, kullanıcıların reklamlara nasıl tepki verdiğini anlamak için bazı verileri toplayabilir, örneğin reklamlara tıklama sayısı, gösterim süreleri ve diğer reklam etkileşimleri. Bu veriler, reklamların kişiselleştirilmesi ve reklam verenlere daha iyi hedeflenmiş reklam sunumu sağlama amacıyla kullanılır.
+Reklam Kimlikleri:
+
+Google AdMob, kullanıcıları benzersiz bir reklam kimliği (Advertising ID) ile tanımlar. Bu kimlik, reklamları daha iyi hedeflemek için kullanılır ve kişisel bilgileri içermez. Kullanıcılar bu kimliği sıfırlayabilir veya devre dışı bırakabilir.
+Reklam Tercihleri:
+
+Kullanıcılar, Google'ın Reklam Ayarları sayfası üzerinden reklam tercihlerini özelleştirebilirler. Bu, kişiselleştirilmiş reklam gösterimini devre dışı bırakma veya reklam kategorilerini seçme gibi seçenekleri içerir.
+Çerezler ve İzleme Araçları:
+
+Google AdMob veya diğer reklam ağları, kullanıcıların reklam etkileşimlerini takip etmek için çerezler ve izleme araçları kullanabilir. Bu, kullanıcıların reklamlara nasıl tepki verdiklerini anlamak için kullanılır. Kullanıcılar, cihazlarının ayarlarından çerez kullanımını kontrol edebilirler.
+Reklam İş Ortağı İlişkileri:
+
+Reklamverenler veya reklam ağları ile iş ortağı ilişkileri içindeyken, kullanıcı verileri belirli reklamların doğru bir şekilde hedeflenmesi ve etkili reklam kampanyalarının yürütülmesi amacıyla paylaşılabilir.
+Google'ın Gizlilik Politikası:
+
+Kullanıcıları, Google'ın gizlilik politikası hakkında bilgilendirmeniz önemlidir. Google'ın veri toplama ve kullanımı ile ilgili daha fazla bilgiye sahip olmak için kullanıcıları Google'ın gizlilik politikasını incelemeye yönlendirebilirsiniz.
+
 Gizlilik ve güvenlik politikamızı dikkatle incelediğiniz için teşekkür ederiz. Politikamızı düzenli olarak gözden geçirmeniz önemlidir, çünkü politika zaman içinde değişebilir. "Şuradan İndir" uygulamasını kullanmaya devam ettiğinizde bu politikayı kabul etmiş sayılırsınız.
 
 Saygılarımla,
